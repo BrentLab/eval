@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/650628995.svg)](https://zenodo.org/badge/latestdoi/650628995)
+
 INCLUDED FILES:
 
  validate_gtf.pl	The GTF validator.
