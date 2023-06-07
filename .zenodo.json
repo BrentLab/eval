@@ -1,0 +1,31 @@
+{
+    "creators": [
+        {
+            "affiliation": "Washington University, St Louis",
+            "name": "Keibler, E"
+        },
+        {
+            "affiliation": "Washington Univeristy, St Louis",
+            "name": "Brent, Michael"
+        }
+    ],
+
+    "license": "GPL-3.0-or-later",
+
+    "title": "A software package for analysis of genome annotations",
+
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.1186/1471-2105-4-50",
+            "relation": "isDocumentedBy",
+            "resource_type": "publication-article"
+        }
+    ],
+
+    "keywords": ["Genomics", "Bioinformatics", "Annotation"],
+
+    "communities": [
+        {"identifier": "bioinformatics"}
+    ]
+}
